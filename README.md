@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SKAhmed97
+- 👀 I’m interested in Automation
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Automation Projects
+- 📫 How to reach me on Linkedin https://www.linkedin.com/in/syed-kashif-ahmed-aa6058193/
